@@ -3,6 +3,9 @@ import Header from "./components/Header";
 import Nav from "./components/Nav";
 import Page from "./components/Page";
 import Footer from "./components/Footer";
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   const [pages] = useState([
