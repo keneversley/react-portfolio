@@ -7,6 +7,7 @@ function Header(props) {
     <header className="flex-row space-between px-1">
       <h1>Full Stack Developer</h1>
       
+      {props.children}
     </header>
   );
 }

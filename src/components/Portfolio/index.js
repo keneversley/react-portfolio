@@ -11,13 +11,7 @@ function Portfolio() {
       link: "https://github.com/keneversley/calendarapi#calender-api",
       repo: "https://keneversley.github.io/calendarapi/"
     },
-    {
-      name: 'pizza-hunt',
-      description: 'MERN Stack',
-      link: "https://github.com/keneversley/pizzahunt2",
-      repo: "https://keneversley.github.io/pizzahunt2"
-      
-    },
+   
     {
       name: 'tech-blog',
       description: 'HTML/CSS',
