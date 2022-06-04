@@ -6,35 +6,32 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'calendarapi',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/keneversley/calendarapi#calender-api",
+      repo: "https://keneversley.github.io/calendarapi/"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'pizza-hunt',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/keneversley/pizzahunt2",
+      repo: "https://keneversley.github.io/pizzahunt2"
+      
     },
     {
-      name: 'run-buddy',
+      name: 'tech-blog',
       description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/keneversley/MVC-Tech-Blog",
+      repo: "https://keneversley.github.io/MVC-Tech-Blog/"
     },
     {
-      name: 'led-wall',
+      name: 'budget-tracker',
       description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/keneversley/Budget-Tracker",
+      repo: "https://keneversley.github.io/Budget-Tracker"
+      
     },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+ 
   ]);
 
   return (
