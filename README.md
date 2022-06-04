@@ -1,6 +1,11 @@
 
 
-# Getting Started with Create React App
+# Gettin!![![Screen Shot 2022-06-04 at 1 51 02 AM](https://user-images.githubusercontent.com/74880685/171986849-70b07e34-5a6a-4e29-b63f-a401a125ddc3.png)
+Screen Shot 2022-06-04 at 1 50 31 AM](https://user-images.githubusercontent.com/74880685/171986840-51b7db57-d885-424a-ab95-aef76b964a2c.png)
+[Screen Shot 2022-06-04 at 1 50 01 AM](https://user-images.githubusercontent.com/74880685/171986835-b67dcf95-745c-4c28-8548-b46316b2769c.png)
+g Start![Screen Shot 2022-06-04 at 1 48 24 AM](https://user-images.githubusercontent.com/74880685/171986820-5746f9e5-d55f-4ffc-9ca2-c5991b357edb.png)
+![Screen Shot 2022-06-04 at 1 47 41 AM](https://user-images.githubusercontent.com/74880685/171986805-484f0049-a2a8-4419-b0d7-e955e417de70.png)
+ed with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
